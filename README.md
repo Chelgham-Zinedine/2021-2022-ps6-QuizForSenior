@@ -1,6 +1,16 @@
 # PolyquizzPs6
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+Web application for conducting quizzes while adapting the interface to various disabilities
+
+## Overview 
+
+![home](img.png)
+
+![profile](img_1.png)
+
+![quizz](img_2.png)
+
+
 
 ## Development server
 
